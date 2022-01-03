@@ -5,4 +5,4 @@ One of the obstacles for everybody getting the most effectiveness out of any lan
 
 To become fluid with development flow for optimal speed, performance, and effectiveness, language tools and syntax should already be in our head, ready to be added to the screen the instant it is needed in our code. Developing that mental state is the purpose of this repository.
 
-For anyone who still happens to be reading, this repository is filled with streamlined (or in some cases, not so streamlined) memorization notes that are specifically mapped to David's brain and probably not yours. I keep the repository public so that I can access it from anywhere at any time.
+For anyone who still happens to be reading, this repository is filled with streamlined (or in some cases, not so streamlined) memorization notes that are specifically mapped to David's brain and probably not yours :D. I keep the repository public so that I can access it from anywhere at any time.
